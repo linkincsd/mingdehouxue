@@ -1,0 +1,21 @@
+﻿  Project1.cpp
+D:\Project\Project1\Project1\Project1.cpp(11,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Project\Project1\Project1\Project1.cpp(14,1): warning C4305: “初始化”: 从“int”到“char”截断
+D:\Project\Project1\Project1\Project1.cpp(11,3): warning C4309: “初始化”: 截断常量值
+D:\Project\Project1\Project1\Project1.cpp(11,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Project\Project1\Project1\Project1.cpp(11,8): warning C4309: “初始化”: 截断常量值
+D:\Project\Project1\Project1\Project1.cpp(11,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Project\Project1\Project1\Project1.cpp(11,13): warning C4309: “初始化”: 截断常量值
+D:\Project\Project1\Project1\Project1.cpp(12,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Project\Project1\Project1\Project1.cpp(12,3): warning C4309: “初始化”: 截断常量值
+D:\Project\Project1\Project1\Project1.cpp(12,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Project\Project1\Project1\Project1.cpp(12,8): warning C4309: “初始化”: 截断常量值
+D:\Project\Project1\Project1\Project1.cpp(12,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Project\Project1\Project1\Project1.cpp(12,13): warning C4309: “初始化”: 截断常量值
+D:\Project\Project1\Project1\Project1.cpp(13,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Project\Project1\Project1\Project1.cpp(13,3): warning C4309: “初始化”: 截断常量值
+D:\Project\Project1\Project1\Project1.cpp(13,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Project\Project1\Project1\Project1.cpp(13,8): warning C4309: “初始化”: 截断常量值
+D:\Project\Project1\Project1\Project1.cpp(13,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Project\Project1\Project1\Project1.cpp(13,13): warning C4309: “初始化”: 截断常量值
+  Project1.vcxproj -> D:\Project\Project1\x64\Debug\Project1.exe
